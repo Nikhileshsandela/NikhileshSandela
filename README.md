@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.cdp.net/cdp-production/comfy/cms/files/files/000/001/430/original/Autos_report_2018_image_-_iStock-610578982_thin.jpg)
 <h1 align="center">Hi 👋, I'm Nikhilesh Sandela</h1>
-<h3 align="center">I am a mechanical engineer, now a self-taught programmer who loves to create projects in Python to automate & simplify things in everyday life. My passion is for AI, Data Science, Adaptive Machine learning and Autonomous Systems!</h3>
+<h3 align="center">I am a mechanical engineer, turned a self-taught programmer who loves to create projects in Python to automate & simplify things in everyday life. My passion is for AI, Data Science, Adaptive Machine learning and Autonomous Systems!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhileshsandela&label=Profile%20views&color=0e75b6&style=flat" alt="nikhileshsandela" /> </p>
 
